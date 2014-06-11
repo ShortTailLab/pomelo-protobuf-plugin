@@ -3,6 +3,7 @@
   "version": "0.0.3",
   "private": false,
   "author": "py8765 pengyang633@126.com/@py8765",
+  "repository": "https://github.com/ShortTailLab/pomelo-protobuf-plugin",
   "dependencies": {
     "pomelo-logger": "0.1.2"
   }
